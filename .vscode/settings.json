@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "console": "externalTerminal",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp"
+    },
+    "python.pythonPath": "D:\\user\\download\\Anaconda3\\python.exe"
+}
